@@ -1,3 +1,4 @@
+IconResource=C:\Program Files (x86)\Microsoft OneDrive\OneDrive.exe,1
 # Build and Release Folders
 bin-debug/
 bin-release/
@@ -16,3 +17,5 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+# Build and Release Folders
+# Build and Release Folders
